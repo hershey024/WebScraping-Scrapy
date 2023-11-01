@@ -1,0 +1,112 @@
+{
+  "build": "py39h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\harsh\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py39h2bbff1b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/LICENSE",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/METADATA",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/RECORD",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/WHEEL",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/twisted_iocpsupport/iocpsupport.cp39-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "twisted-iocpsupport-1.0.2-py39h2bbff1b_0.conda",
+  "legacy_bz2_md5": "6185a4295fc80fa7d9687e84a73fb175",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\harsh\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py39h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "21dffcf10596de24a4cf283759c748c5",
+  "name": "twisted-iocpsupport",
+  "package_tarball_full_path": "C:\\Users\\harsh\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py39h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "39538dff5bee4b7ff639967c7fac48828f6d043f39af12c65b7f6c91915a2262",
+        "sha256_in_prefix": "39538dff5bee4b7ff639967c7fac48828f6d043f39af12c65b7f6c91915a2262",
+        "size_in_bytes": 1942
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b1febbfeae844a4eb9fc5ab2497296a773202b4bcafc80c01590004f9fe2d4af",
+        "sha256_in_prefix": "b1febbfeae844a4eb9fc5ab2497296a773202b4bcafc80c01590004f9fe2d4af",
+        "size_in_bytes": 2069
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e2e52dad9f8cb5342183e7c8973d61fc54dfc79f1537b723d4164bd1e9ad7214",
+        "sha256_in_prefix": "e2e52dad9f8cb5342183e7c8973d61fc54dfc79f1537b723d4164bd1e9ad7214",
+        "size_in_bytes": 868
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7d571594bce2f021a2fd497cbe331d9fc804476e5d9f918183d13a93dcf8d7e6",
+        "sha256_in_prefix": "7d571594bce2f021a2fd497cbe331d9fc804476e5d9f918183d13a93dcf8d7e6",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9ede478b1a5269d71d8b0454642028bc7421d7c320d8483fa33dcb68719db8ae",
+        "sha256_in_prefix": "9ede478b1a5269d71d8b0454642028bc7421d7c320d8483fa33dcb68719db8ae",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f1565c00be4c3fd3f5e64f3ba9e593cd46887037c979c837c480fc3c58bafb79",
+        "sha256_in_prefix": "f1565c00be4c3fd3f5e64f3ba9e593cd46887037c979c837c480fc3c58bafb79",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "Lib/site-packages/twisted_iocpsupport/iocpsupport.cp39-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "b06b86c73056a0deb3466d8df776470e83543ff34fbb9b1360136b5828c4e331",
+        "sha256_in_prefix": "b06b86c73056a0deb3466d8df776470e83543ff34fbb9b1360136b5828c4e331",
+        "size_in_bytes": 95744
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d1d9e46a03779605bbf5da23b6aaa6bdac2c928099a767ed227e5537c9183df8",
+  "size": 47179,
+  "subdir": "win-64",
+  "timestamp": 1646799025667,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/twisted-iocpsupport-1.0.2-py39h2bbff1b_0.conda",
+  "version": "1.0.2"
+}

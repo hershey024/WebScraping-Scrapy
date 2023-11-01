@@ -1,0 +1,69 @@
+==> 2023-10-26 10:54:38 <==
+# cmd: C:\Users\harsh\anaconda3\Scripts\conda-script.py create --yes --json --prefix C:\Users\harsh\anaconda3\envs\my_scrapy_venv python=3.9
+# conda version: 4.10.3
++defaults/noarch::tzdata-2023c-h04d1e81_0
++defaults/win-64::ca-certificates-2023.08.22-haa95532_0
++defaults/win-64::openssl-3.0.11-h2bbff1b_2
++defaults/win-64::pip-23.3-py39haa95532_0
++defaults/win-64::python-3.9.18-h1aa4202_0
++defaults/win-64::setuptools-68.0.0-py39haa95532_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wheel-0.41.2-py39haa95532_0
+# update specs: ['python=3.9']
+==> 2023-10-26 10:56:33 <==
+# cmd: C:\Users\harsh\anaconda3\Scripts\conda-script.py install -c conda-forge scrapy
+# conda version: 4.10.3
+-defaults/win-64::ca-certificates-2023.08.22-haa95532_0
++conda-forge/noarch::appdirs-1.4.4-pyh9f0ad1d_0
++conda-forge/noarch::attrs-23.1.0-pyh71513ae_1
++conda-forge/noarch::automat-22.10.0-pyhd8ed1ab_0
++conda-forge/noarch::certifi-2023.7.22-pyhd8ed1ab_0
++conda-forge/noarch::charset-normalizer-3.3.1-pyhd8ed1ab_0
++conda-forge/noarch::constantly-15.1.0-py_0
++conda-forge/noarch::cssselect-1.2.0-pyhd8ed1ab_0
++conda-forge/noarch::filelock-3.12.4-pyhd8ed1ab_0
++conda-forge/noarch::hyperlink-21.0.0-pyhd3deb0d_0
++conda-forge/noarch::idna-3.4-pyhd8ed1ab_0
++conda-forge/noarch::incremental-22.10.0-pyhd8ed1ab_0
++conda-forge/noarch::itemadapter-0.8.0-pyhd8ed1ab_0
++conda-forge/noarch::itemloaders-1.1.0-pyhd8ed1ab_0
++conda-forge/noarch::jmespath-1.0.1-pyhd8ed1ab_0
++conda-forge/noarch::packaging-23.2-pyhd8ed1ab_0
++conda-forge/noarch::parsel-1.8.1-pyhd8ed1ab_0
++conda-forge/noarch::protego-0.3.0-pyhd8ed1ab_0
++conda-forge/noarch::pyasn1-0.5.0-pyhd8ed1ab_0
++conda-forge/noarch::pyasn1-modules-0.3.0-pyhd8ed1ab_0
++conda-forge/noarch::pycparser-2.21-pyhd8ed1ab_0
++conda-forge/noarch::pydispatcher-2.0.5-py_1
++conda-forge/noarch::pyopenssl-23.2.0-pyhd8ed1ab_1
++conda-forge/noarch::pysocks-1.7.1-pyh0701188_6
++conda-forge/noarch::queuelib-1.6.2-pyhd8ed1ab_0
++conda-forge/noarch::requests-2.31.0-pyhd8ed1ab_0
++conda-forge/noarch::requests-file-1.5.1-pyh9f0ad1d_0
++conda-forge/noarch::service_identity-18.1.0-py_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::tldextract-5.0.1-pyhd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.8.0-pyha770c72_0
++conda-forge/noarch::urllib3-2.0.7-pyhd8ed1ab_0
++conda-forge/noarch::w3lib-2.1.2-pyhd8ed1ab_0
++conda-forge/noarch::win_inet_pton-1.1.0-pyhd8ed1ab_6
++conda-forge/win-64::bcrypt-3.2.0-py39hb82d6ee_3
++conda-forge/win-64::brotli-python-1.0.9-py39h415ef7b_7
++conda-forge/win-64::ca-certificates-2023.7.22-h56e8100_0
++conda-forge/win-64::libiconv-1.17-h8ffe710_0
++conda-forge/win-64::python_abi-3.9-2_cp39
++conda-forge/win-64::pywin32-227-py39hb82d6ee_1
++conda-forge/win-64::scrapy-2.11.0-py39hcbf5309_0
++defaults/win-64::cffi-1.15.1-py39h2bbff1b_3
++defaults/win-64::cryptography-41.0.3-py39h89fc84f_0
++defaults/win-64::libxml2-2.10.4-h0ad7f3c_1
++defaults/win-64::libxslt-1.1.37-h2bbff1b_1
++defaults/win-64::lxml-4.9.3-py39h09808a7_0
++defaults/win-64::twisted-22.10.0-py39h2bbff1b_0
++defaults/win-64::twisted-iocpsupport-1.0.2-py39h2bbff1b_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_0
++defaults/win-64::zope-1.0-py39haa95532_1
++defaults/win-64::zope.interface-5.4.0-py39h2bbff1b_0
+# update specs: ['scrapy']

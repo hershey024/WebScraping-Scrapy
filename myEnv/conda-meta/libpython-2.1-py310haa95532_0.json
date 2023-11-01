@@ -1,0 +1,62 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\harsh\\anaconda3\\pkgs\\libpython-2.1-py310haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/distutils/distutils.cfg",
+    "libs/libmsvcr140.dll.a",
+    "libs/libpython310.dll.a",
+    ".nonadmin"
+  ],
+  "fn": "libpython-2.1-py310haa95532_0.conda",
+  "legacy_bz2_md5": "c66e567d78749032b766184879797922",
+  "license": "Other",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\Users\\harsh\\anaconda3\\pkgs\\libpython-2.1-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "64120c83c84ceea72c3eb26b447c5251",
+  "name": "libpython",
+  "package_tarball_full_path": "C:\\Users\\harsh\\anaconda3\\pkgs\\libpython-2.1-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/distutils/distutils.cfg",
+        "path_type": "hardlink",
+        "sha256": "fe0fa3b50c48106b46496cedf867a648a7ef7cdf0fc451e742bb3a3b845bc93e",
+        "sha256_in_prefix": "fe0fa3b50c48106b46496cedf867a648a7ef7cdf0fc451e742bb3a3b845bc93e",
+        "size_in_bytes": 39
+      },
+      {
+        "_path": "libs/libmsvcr140.dll.a",
+        "path_type": "hardlink",
+        "sha256": "f0a17a43c74d2fe5474fa2fd29c8f14799e777d7d75a2cc4d11c20a6e7b161c5",
+        "sha256_in_prefix": "f0a17a43c74d2fe5474fa2fd29c8f14799e777d7d75a2cc4d11c20a6e7b161c5",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "libs/libpython310.dll.a",
+        "path_type": "hardlink",
+        "sha256": "9114981be0b6873e70d3536562e424413900e375a346053e7cdcb539abb69847",
+        "sha256_in_prefix": "9114981be0b6873e70d3536562e424413900e375a346053e7cdcb539abb69847",
+        "size_in_bytes": 1284768
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libpython",
+  "sha256": "4259f4d0e28c4e52db4a19742825169973f4b9f7d764fc5ef56f9a2d0e2e66d4",
+  "size": 49715,
+  "subdir": "win-64",
+  "timestamp": 1642656736450,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libpython-2.1-py310haa95532_0.conda",
+  "version": "2.1"
+}
