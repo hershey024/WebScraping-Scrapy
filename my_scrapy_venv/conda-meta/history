@@ -67,3 +67,19 @@
 +defaults/win-64::zope-1.0-py39haa95532_1
 +defaults/win-64::zope.interface-5.4.0-py39h2bbff1b_0
 # update specs: ['scrapy']
+==> 2023-11-02 09:45:03 <==
+# cmd: C:\Users\harsh\anaconda3\Scripts\conda-script.py install pymongo dnspython -y
+# conda version: 4.10.3
+-conda-forge/noarch::certifi-2023.7.22-pyhd8ed1ab_0
+-conda-forge/win-64::ca-certificates-2023.7.22-h56e8100_0
++defaults/win-64::ca-certificates-2023.08.22-haa95532_0
++defaults/win-64::certifi-2023.7.22-py39haa95532_0
++defaults/win-64::dnspython-2.2.1-py39haa95532_0
++defaults/win-64::pymongo-3.12.0-py39hd77b12b_0
+# update specs: ['pymongo', 'dnspython']
+==> 2023-11-02 09:47:25 <==
+# cmd: C:\Users\harsh\anaconda3\Scripts\conda-script.py install -p C:/Users/harsh/anaconda3/envs/my_scrapy_venv itemadapter -y
+# conda version: 4.10.3
+-conda-forge/noarch::itemadapter-0.8.0-pyhd8ed1ab_0
++defaults/noarch::itemadapter-0.3.0-pyhd3eb1b0_0
+# update specs: ['itemadapter']
