@@ -1,0 +1,2 @@
+Spalsh is used for JavaScript websites to render dyanamic content(content that renders when a user clicks on some icon/button in an app). 
+Using scrapy would not help in fetching dynamic content from JavaScript websites.
