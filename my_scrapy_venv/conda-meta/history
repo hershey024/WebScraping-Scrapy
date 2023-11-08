@@ -83,3 +83,11 @@
 -conda-forge/noarch::itemadapter-0.8.0-pyhd8ed1ab_0
 +defaults/noarch::itemadapter-0.3.0-pyhd3eb1b0_0
 # update specs: ['itemadapter']
+==> 2023-11-07 05:38:17 <==
+# cmd: C:\Users\harsh\anaconda3\Scripts\conda-script.py install -p C:/Users/harsh/anaconda3/envs/my_scrapy_venv scrapy -y
+# conda version: 4.10.3
+-conda-forge/win-64::scrapy-2.11.0-py39hcbf5309_0
+-defaults/win-64::openssl-3.0.11-h2bbff1b_2
++defaults/win-64::openssl-3.0.12-h2bbff1b_0
++defaults/win-64::scrapy-2.8.0-py39haa95532_0
+# update specs: ['scrapy']
